@@ -1,0 +1,11 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+canvas
+{
+    position:absolute;
+    top:0px;
+    left:0px;
+}
+body
+{
+    bgcolor:#000000;
+}
